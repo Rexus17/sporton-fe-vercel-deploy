@@ -27,3 +27,8 @@ export function getImageUrl(path: string) {
     if (path.startsWith("http")) return path;
     return `${process.env.NEXT_PUBLIC_API_ROOT}/${path}`;
 }
+
+
+// const fallbackApiUrl = `https://be-sporton.agunacourse.com/api`;
+// const apiUrl = process.env.NEXT_PUBLIC_API_URL || fallbackApiUrl;
+// const res = await fetch(`${apiUrl}${endpoint}`, { ...options, cache: options?.cache || "no-store", });
