@@ -2,8 +2,6 @@
 
 <p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-fe-vercel-deploy/blob/master/Screenshot%202026-09-08%20115531.png" width="400"></a></p>
 
-sign in as admin
-
 ## Add Products
 
 <p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-be/blob/session8/preview%20picture%20project%20for%20github/Add%20Product.png" width="400"></a></p>
