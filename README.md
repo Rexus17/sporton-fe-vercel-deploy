@@ -1,6 +1,6 @@
-## SIGN - IN
+## SportOn E-Commerce Website Home Display
 
-<p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-be/blob/session8/preview%20picture%20project%20for%20github/Sign%20In.png" width="400"></a></p>
+<p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-fe-vercel-deploy/blob/master/Screenshot%202026-09-08%20115531.png" width="400"></a></p>
 
 sign in as admin
 
