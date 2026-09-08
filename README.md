@@ -18,9 +18,9 @@
 
 <p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-fe-vercel-deploy/blob/master/Screenshot%202026-09-08%20115851.png" width="400"></a></p>
 
-## Edit Categories
+## Payment View
 
-<p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-be/blob/session8/preview%20picture%20project%20for%20github/Edit%20Categories.png" width="400"></a></p>
+<p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-fe-vercel-deploy/blob/master/Screenshot%202026-09-08%20120012.png" width="400"></a></p>
 
 ##
 
