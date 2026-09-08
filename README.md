@@ -14,41 +14,13 @@
 
 <p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-fe-vercel-deploy/blob/master/Screenshot%202026-09-08%20115716.png" width="400"></a></p>
 
-## Add Categories
+## Checkout View
 
-<p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-be/blob/session8/preview%20picture%20project%20for%20github/Add%20Categories.png" width="400"></a></p>
-
-can add categories
+<p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-fe-vercel-deploy/blob/master/Screenshot%202026-09-08%20115851.png" width="400"></a></p>
 
 ## Edit Categories
 
 <p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-be/blob/session8/preview%20picture%20project%20for%20github/Edit%20Categories.png" width="400"></a></p>
-
-can edit products according to ID
-
-## Delete Category
-
-<p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-be/blob/session8/preview%20picture%20project%20for%20github/Delete%20Categories.png" width="400"></a></p>
-
-can delete products according to ID
-
-## Add Bank Information
-
-<p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-be/blob/session8/preview%20picture%20project%20for%20github/Add%20Bank.png" width="400"></a></p>
-
-can add bank information
-
-## Edit Bank Information
-
-<p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-be/blob/session8/preview%20picture%20project%20for%20github/Edit%20Categories.png" width="400"></a></p>
-
-can edit bank information according to ID
-
-## Delete Bank Information
-
-<p align="left"><a href="https://github.com/Rexus17/Competency-Exam-Industry-World-at-Vocational-School-Tunas-Media/blob/master/preview%20picture%20project%20for%20github/Log%20-%20In.png" target="_blank"><img src="https://github.com/Rexus17/sporton-be/blob/session8/preview%20picture%20project%20for%20github/Delete%20Bank.png" width="400"></a></p>
-
-can delete bank information according to ID
 
 ##
 
